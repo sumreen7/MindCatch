@@ -19,12 +19,3 @@ Built with React Native, Firebase, OpenAI Whisper, and GPT.
 ☁️ Cloud Sync – Everything is stored securely in Firebase
 
 
-🚀 Tech Stack
-
-Tool          Purpose
-React Native          Cross-platform mobile app
-Firebase          Auth, Firestore DB, storage
-Whisper API          	Voice-to-text conversion
-OpenAI GPT         	Categorization, summarization
-Expo (optional)          Fast prototyping & dev tools
-
